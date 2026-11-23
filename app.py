@@ -13,7 +13,7 @@ from google.genai import types     # extra settings for Gemini (like turning on 
 
 st.set_page_config(page_title="Apparel AI Team", page_icon="👗", layout="wide")  # browser tab title + wide page
 
-MODEL = "gemini-3.8-flash"         # which Gemini brain to use. If "model not found" appears, change this name.
+MODEL = "gemini-3.6-flash"         # which Gemini brain to use. If "model not found" appears, change this name.
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))  # Indian time, so dates look right
 
 # ---------------------------------------------------------------------
