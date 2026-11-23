@@ -55,7 +55,7 @@ MEMORY_FILE = "hub_memory.json"                        # the notebook file where
 BRAND_FILE = "brand.json"                              # the file where brand details are saved
 
 DEFAULT_BRAND = {                                      # starting brand details (you edit these on the website)
-    "name": "Virgio",                                  # brand name
+    "name": "Nicobar",                                  # brand name
     "product": "women's kurta sets and co-ord sets",   # what you sell
     "price_range": "Rs 899 - Rs 1999",                 # your selling price
     "market": "India, ages 18-35",                     # who buys
